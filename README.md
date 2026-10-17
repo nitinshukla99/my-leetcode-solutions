@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nitinshukla99/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nitinshukla99/my-leetcode-solutions/tree/master/0016-3sum-closest) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nitinshukla99/my-leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
